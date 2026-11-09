@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: My MSc Artificial Intelligence Journey!
+University of Essex
 ---
